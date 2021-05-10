@@ -1,0 +1,59 @@
+
+
+Arthur Querido Lopes - Total de erros: 56
+{'Erro no número de questões internas': 7, 'Letras das Alternativas presentes nos items do XML': 25, 'Faltou Itálico em et al': 5, 'Faltou o <> nas extremidades do link (&lt; e &gt;)': 10, 'Faltou Itálico em In': 8, 'Erro no número de tags de answer_options': 1}
+
+Bernardo Duarte Sabino de Freitas - Total de erros: 494
+{'Faltou o <> nas extremidades do link (&lt; e &gt;)': 247, 'Letras das Alternativas presentes nos items do XML': 46, 'Faltou Itálico em et al': 29, 'Palavra "E" não deveria estar presente no segundo parágrafo do porque': 67, 'Faltou o link no XML': 17, 'Faltou Itálico em In': 14, 'Erro no número de questões internas': 18, 'Erro no número de tags de answer_options': 8, 'O parágrafo acima deveria estar todo em negrito': 38, 'Os números romanos devem estar todos em negrito': 5, 'Erro no número de items de uma questão de Múltipla Escolha': 5}
+
+Camael Henrique Ventura Duarte - Total de erros: 810
+{'Faltou o <> nas extremidades do link (&lt; e &gt;)': 348, 'Erro no número de questões internas': 373, 'Faltou Itálico em In': 29, 'Letras das Alternativas presentes nos items do XML': 38, 'Palavra "E" não deveria estar presente no segundo parágrafo do porque': 1, 'O parágrafo acima deveria estar todo em negrito': 2, 'Erro no número de tags de answer_options': 1, 'Faltou Itálico em et al': 17, 'Faltou o link no XML': 1}
+
+Fernando Henrique da Cruz - Total de erros: 418
+{'Faltou o <> nas extremidades do link (&lt; e &gt;)': 271, 'Letras das Alternativas presentes nos items do XML': 61, 'Faltou Itálico em In': 24, 'Erro no número de questões internas': 9, 'Faltou o link no XML': 9, 'Faltou Itálico em et al': 35, 'Palavra "E" não deveria estar presente no segundo parágrafo do porque': 9}
+
+Henrique Morais Jacob Medeiros - Total de erros: 485
+{'Faltou o <> nas extremidades do link (&lt; e &gt;)': 325, 'Faltou o link no XML': 5, 'Letras das Alternativas presentes nos items do XML': 41, 'Faltou Itálico em et al': 45, 'Faltou Itálico em In': 18, 'Palavra "E" não deveria estar presente no segundo parágrafo do porque': 48, 'Erro no número de questões internas': 2, 'Erro no número de tags de answer_options': 1}
+
+Henrique Rodrigues de Sousa - Total de erros: 431
+{'Faltou o <> nas extremidades do link (&lt; e &gt;)': 234, 'Letras das Alternativas presentes nos items do XML': 53, 'Palavra "E" não deveria estar presente no segundo parágrafo do porque': 86, 'Erro no número de questões internas': 21, 'Faltou Itálico em et al': 21, 'Erro no número de tags de answer_options': 3, 'Faltou Itálico em In': 6, 'Faltou o link no XML': 5, 'Erro no número de items de uma questão de Múltipla Escolha': 2}
+
+Izabella Guedes Pereira Nery - Total de erros: 442
+{'Letras das Alternativas presentes nos items do XML': 21, 'Faltou o link no XML': 15, 'Faltou Itálico em In': 68, 'Faltou Itálico em et al': 12, 'Faltou o <> nas extremidades do link (&lt; e &gt;)': 302, 'Erro no número de questões internas': 24}
+
+Júlia Lambert Andrade Duraes - Total de erros: 314
+{'O parágrafo acima deveria estar todo em negrito': 72, 'Faltou o <> nas extremidades do link (&lt; e &gt;)': 137, 'Erro no número de questões internas': 20, 'Os números romanos devem estar todos em negrito': 12, 'Erro no número de items de uma questão de Múltipla Escolha': 12, 'Erro no número de tags de answer_options': 4, 'Palavra "E" não deveria estar presente no segundo parágrafo do porque': 1, 'Letras das Alternativas presentes nos items do XML': 38, 'Faltou Itálico em In': 13, 'Faltou Itálico em et al': 4, 'Faltou o link no XML': 1}
+
+Kevin Santos Bertoldo - Total de erros: 363
+{'Faltou o <> nas extremidades do link (&lt; e &gt;)': 230, 'Letras das Alternativas presentes nos items do XML': 52, 'Erro no número de questões internas': 37, 'Faltou Itálico em In': 32, 'Faltou Itálico em et al': 9, 'Erro no número de tags de answer_options': 1, 'Palavra "E" não deveria estar presente no segundo parágrafo do porque': 2}
+
+Lucas Resende Carneiro - Total de erros: 398
+{'Faltou o <> nas extremidades do link (&lt; e &gt;)': 204, 'Erro no número de questões internas': 29, 'Faltou Itálico em et al': 43, 'Faltou o link no XML': 15, 'Erro no número de tags de answer_options': 9, 'Palavra "E" não deveria estar presente no segundo parágrafo do porque': 33, 'Faltou Itálico em In': 20, 'Letras das Alternativas presentes nos items do XML': 45}
+
+Luiz Felipe Gonçalves Barbosa Viana - Total de erros: 484
+{'O parágrafo acima deveria estar todo em negrito': 77, 'Erro no número de questões internas': 18, 'Faltou o link no XML': 8, 'Os números romanos devem estar todos em negrito': 8, 'Erro no número de items de uma questão de Múltipla Escolha': 9, 'Letras das Alternativas presentes nos items do XML': 34, 'Faltou o <> nas extremidades do link (&lt; e &gt;)': 279, 'Erro no número de tags de answer_options': 2, 'Faltou Itálico em In': 38, 'Faltou Itálico em et al': 11}
+
+Murilo Guerreiro Badoco - Total de erros: 349
+{'Erro no número de questões internas': 53, 'Faltou o <> nas extremidades do link (&lt; e &gt;)': 99, 'Erro no número de tags de answer_options': 6, 'Faltou Itálico em In': 6, 'Letras das Alternativas presentes nos items do XML': 21, 'Faltou o link no XML': 90, 'Faltou Itálico em et al': 2, 'Os números romanos devem estar todos em negrito': 20, 'Erro no número de items de uma questão de Múltipla Escolha': 20, 'O parágrafo acima deveria estar todo em negrito': 31, 'Palavra "E" não deveria estar presente no segundo parágrafo do porque': 1}
+
+Paulo José Carmona Teixeira - Total de erros: 364
+{'Faltou o <> nas extremidades do link (&lt; e &gt;)': 224, 'Faltou Itálico em In': 36, 'Faltou Itálico em et al': 34, 'Erro no número de questões internas': 30, 'Erro no número de tags de answer_options': 6, 'Letras das Alternativas presentes nos items do XML': 33, 'Faltou o link no XML': 1}
+
+Ramon Guimarães Cruz - Total de erros: 257
+{'Erro no número de questões internas': 40, 'Faltou o <> nas extremidades do link (&lt; e &gt;)': 125, 'Faltou o link no XML': 3, 'Faltou Itálico em In': 42, 'Palavra "E" não deveria estar presente no segundo parágrafo do porque': 25, 'Faltou Itálico em et al': 8, 'Erro no número de tags de answer_options': 12, 'Erro no número de items de uma questão de Múltipla Escolha': 2}
+
+Roberto junio Silva Caetano - Total de erros: 346
+{'Faltou o <> nas extremidades do link (&lt; e &gt;)': 261, 'Erro no número de questões internas': 5, 'Faltou Itálico em et al': 21, 'Faltou Itálico em In': 18, 'Faltou o link no XML': 3, 'Letras das Alternativas presentes nos items do XML': 30, 'Palavra "E" não deveria estar presente no segundo parágrafo do porque': 2, 'Erro no número de items de uma questão de Múltipla Escolha': 6}
+
+Victor Sampaio de Souza Campos - Total de erros: 307
+{'Faltou o <> nas extremidades do link (&lt; e &gt;)': 225, 'Faltou Itálico em et al': 34, 'Palavra "E" não deveria estar presente no segundo parágrafo do porque': 2, 'Faltou Itálico em In': 21, 'Letras das Alternativas presentes nos items do XML': 5, 'Erro no número de questões internas': 12, 'Erro no número de items de uma questão de Múltipla Escolha': 1, 'Erro no número de tags de answer_options': 6, 'Faltou o link no XML': 1}
+
+Victoria Maria Veloso Rodrigues - Total de erros: 384
+{'Faltou o <> nas extremidades do link (&lt; e &gt;)': 148, 'Letras das Alternativas presentes nos items do XML': 41, 'Faltou Itálico em et al': 7, 'Faltou Itálico em In': 29, 'Erro no número de questões internas': 45, 'Erro no número de tags de answer_options': 22, 'O parágrafo acima deveria estar todo em negrito': 72, 'Os números romanos devem estar todos em negrito': 9, 'Erro no número de items de uma questão de Múltipla Escolha': 10, 'Faltou o link no XML': 1}
+
+Vinícius Pereira Duarte - Total de erros: 1154
+{'Faltou o <> nas extremidades do link (&lt; e &gt;)': 174, 'Letras das Alternativas presentes nos items do XML': 41, 'Correção dos comentários com: Deveria ser': 269, 'Palavra "E" não deveria estar presente no segundo parágrafo do porque': 75, 'Faltou o link no XML': 27, 'Correção de comentários com: Faltou Itálico em': 108, 'Correção de comentários com: Faltou Negrito em': 26, 'Faltou Itálico em In': 24, 'Erro no número de questões internas': 10, 'Erro no número de tags de answer_options': 4, 'Faltou Itálico em et al': 14, 'O parágrafo acima deveria estar todo em negrito': 276, 'Os números romanos devem estar todos em negrito': 53, 'Erro no número de items de uma questão de Múltipla Escolha': 53}
+
+Ádrian Marcello Mendes Dias - Total de erros: 192
+{'Faltou o <> nas extremidades do link (&lt; e &gt;)': 83, 'Letras das Alternativas presentes nos items do XML': 36, 'Faltou Itálico em et al': 13, 'Palavra "E" não deveria estar presente no segundo parágrafo do porque': 38, 'Faltou Itálico em In': 9, 'Erro no número de questões internas': 5, 'Faltou o link no XML': 4, 'Erro no número de tags de answer_options': 4}
+Total de erros: 8048

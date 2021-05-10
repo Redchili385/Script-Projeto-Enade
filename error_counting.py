@@ -81,13 +81,24 @@ stringSummaryArray = map(lambda x : x.generateTextSummary(), summary)
 stringSummary = '\n\n'.join(stringSummaryArray)
 s+=stringSummary
 #print(s)
+with open("./log.txt",'w', encoding='utf-8') as logFile:
+    logFile.seek(0)
+    logFile.write(s)
+
+s = ""
 countErros = 0
 for summaryAluno in summary:
-    print(summaryAluno.name)
-    print(summaryAluno.errorTypes)
+    countErrosAluno = 0
     for errorType in summaryAluno.errorTypes:
-        countErros += summaryAluno.errorTypes[errorType]
-print("Total de erros: "+str(countErros))
+        countErrosAluno += summaryAluno.errorTypes[errorType]
+    s += "\n\n"+summaryAluno.name + " - Total de erros: "+str(countErrosAluno)
+    s += "\n" + str(summaryAluno.errorTypes)
+    countErros += countErrosAluno
+s+= "\nTotal de erros: "+str(countErros)
+
+with open("./log_tipo_erros.txt",'w', encoding='utf-8') as logErrosFile:
+    logErrosFile.seek(0)
+    logErrosFile.write(s)
 
 rows = [SummaryAluno().getTableDescriptionRow()]
 for summaryAluno in summary:

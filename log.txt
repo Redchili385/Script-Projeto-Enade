@@ -1,8 +1,8 @@
-VerificaÁ„o das provas do grupo 2 Enade
+Verifica√ß√£o das provas do grupo 2 Enade
 
-VerificaÁ„o de Provas por Arthur Querido Lopes
+Verifica√ß√£o de Provas por Arthur Querido Lopes
 
-Total Number Of Provas: 21
+Total Number Of Provas: 18
 Total Number Of Questions: 325
 Total Verified Number of Questions: 320
 Percentage of Questions Verified: 0.9846153846153847
@@ -12,7 +12,7 @@ Percentage of Verified Questions Ok: 0.6875
 Errors per question: 0.5046153846153846
 Errors per verified question: 0.5125
 
-VerificaÁ„o de Provas por Bernardo Duarte Sabino de Freitas
+Verifica√ß√£o de Provas por Bernardo Duarte Sabino de Freitas
 
 Total Number Of Provas: 20
 Total Number Of Questions: 798
@@ -24,7 +24,7 @@ Percentage of Verified Questions Ok: 0.8258145363408521
 Errors per question: 0.20551378446115287
 Errors per verified question: 0.20551378446115287
 
-VerificaÁ„o de Provas por Camael Henrique Ventura Duarte
+Verifica√ß√£o de Provas por Camael Henrique Ventura Duarte
 
 Total Number Of Provas: 19
 Total Number Of Questions: 760
@@ -36,7 +36,7 @@ Percentage of Verified Questions Ok: 1.0
 Errors per question: 0.002631578947368421
 Errors per verified question: 0.002652519893899204
 
-VerificaÁ„o de Provas por Fernando Henrique da Cruz
+Verifica√ß√£o de Provas por Fernando Henrique da Cruz
 
 Total Number Of Provas: 20
 Total Number Of Questions: 828
@@ -48,7 +48,7 @@ Percentage of Verified Questions Ok: 0
 Errors per question: 0.0
 Errors per verified question: 0
 
-VerificaÁ„o de Provas por Henrique Morais Jacob Medeiros
+Verifica√ß√£o de Provas por Henrique Morais Jacob Medeiros
 
 Total Number Of Provas: 20
 Total Number Of Questions: 800
@@ -60,7 +60,7 @@ Percentage of Verified Questions Ok: 0.7775
 Errors per question: 0.28375
 Errors per verified question: 0.28375
 
-VerificaÁ„o de Provas por Henrique Rodrigues de Sousa
+Verifica√ß√£o de Provas por Henrique Rodrigues de Sousa
 
 Total Number Of Provas: 19
 Total Number Of Questions: 760
@@ -72,7 +72,7 @@ Percentage of Verified Questions Ok: 0.40789473684210525
 Errors per question: 1.4592105263157895
 Errors per verified question: 1.4592105263157895
 
-VerificaÁ„o de Provas por Izabella Guedes Pereira Nery
+Verifica√ß√£o de Provas por Izabella Guedes Pereira Nery
 
 Total Number Of Provas: 20
 Total Number Of Questions: 811
@@ -84,7 +84,7 @@ Percentage of Verified Questions Ok: 0.9950556242274413
 Errors per question: 0.004932182490752158
 Errors per verified question: 0.004944375772558714
 
-VerificaÁ„o de Provas por J˙lia Lambert Andrade Duraes
+Verifica√ß√£o de Provas por J√∫lia Lambert Andrade Duraes
 
 Total Number Of Provas: 20
 Total Number Of Questions: 855
@@ -96,7 +96,7 @@ Percentage of Verified Questions Ok: 0
 Errors per question: 0.0
 Errors per verified question: 0
 
-VerificaÁ„o de Provas por Kevin Santos Bertoldo
+Verifica√ß√£o de Provas por Kevin Santos Bertoldo
 
 Total Number Of Provas: 20
 Total Number Of Questions: 795
@@ -108,7 +108,7 @@ Percentage of Verified Questions Ok: 0.04597701149425287
 Errors per question: 0.9459119496855346
 Errors per verified question: 0.9604086845466155
 
-VerificaÁ„o de Provas por Lucas Resende Carneiro
+Verifica√ß√£o de Provas por Lucas Resende Carneiro
 
 Total Number Of Provas: 20
 Total Number Of Questions: 800
@@ -120,9 +120,9 @@ Percentage of Verified Questions Ok: 0.3875
 Errors per question: 1.41875
 Errors per verified question: 1.41875
 
-VerificaÁ„o de Provas por Luiz Felipe GonÁalves Barbosa Viana
+Verifica√ß√£o de Provas por Luiz Felipe Gon√ßalves Barbosa Viana
 
-Total Number Of Provas: 21
+Total Number Of Provas: 20
 Total Number Of Questions: 896
 Total Verified Number of Questions: 895
 Percentage of Questions Verified: 0.9988839285714286
@@ -132,7 +132,7 @@ Percentage of Verified Questions Ok: 0.8670391061452514
 Errors per question: 0.22098214285714285
 Errors per verified question: 0.2212290502793296
 
-VerificaÁ„o de Provas por Murilo Guerreiro Badoco
+Verifica√ß√£o de Provas por Murilo Guerreiro Badoco
 
 Total Number Of Provas: 20
 Total Number Of Questions: 810
@@ -144,7 +144,7 @@ Percentage of Verified Questions Ok: 0.39060568603213847
 Errors per question: 1.4086419753086419
 Errors per verified question: 1.4103831891223733
 
-VerificaÁ„o de Provas por Paulo JosÈ Carmona Teixeira
+Verifica√ß√£o de Provas por Paulo Jos√© Carmona Teixeira
 
 Total Number Of Provas: 20
 Total Number Of Questions: 786
@@ -156,7 +156,7 @@ Percentage of Verified Questions Ok: 0
 Errors per question: 0.0
 Errors per verified question: 0
 
-VerificaÁ„o de Provas por Ramon Guimar„es Cruz
+Verifica√ß√£o de Provas por Ramon Guimar√£es Cruz
 
 Total Number Of Provas: 19
 Total Number Of Questions: 870
@@ -168,7 +168,7 @@ Percentage of Verified Questions Ok: 0.8398617511520737
 Errors per question: 0.20344827586206896
 Errors per verified question: 0.20391705069124424
 
-VerificaÁ„o de Provas por Roberto junio Silva Caetano
+Verifica√ß√£o de Provas por Roberto junio Silva Caetano
 
 Total Number Of Provas: 20
 Total Number Of Questions: 818
@@ -180,7 +180,7 @@ Percentage of Verified Questions Ok: 1.0029154518950438
 Errors per question: 0.0024449877750611247
 Errors per verified question: 0.0058309037900874635
 
-VerificaÁ„o de Provas por Victor Sampaio de Souza Campos
+Verifica√ß√£o de Provas por Victor Sampaio de Souza Campos
 
 Total Number Of Provas: 20
 Total Number Of Questions: 800
@@ -192,7 +192,7 @@ Percentage of Verified Questions Ok: 0.0
 Errors per question: 0.08125
 Errors per verified question: 1.0
 
-VerificaÁ„o de Provas por Victoria Maria Veloso Rodrigues
+Verifica√ß√£o de Provas por Victoria Maria Veloso Rodrigues
 
 Total Number Of Provas: 20
 Total Number Of Questions: 756
@@ -204,7 +204,7 @@ Percentage of Verified Questions Ok: 0.04
 Errors per question: 0.25
 Errors per verified question: 1.26
 
-VerificaÁ„o de Provas por VinÌcius Pereira Duarte
+Verifica√ß√£o de Provas por Vin√≠cius Pereira Duarte
 
 Total Number Of Provas: 20
 Total Number Of Questions: 857
@@ -216,7 +216,7 @@ Percentage of Verified Questions Ok: 0.20186697782963828
 Errors per question: 1.7981330221703618
 Errors per verified question: 1.7981330221703618
 
-VerificaÁ„o de Provas por ¡drian Marcello Mendes Dias
+Verifica√ß√£o de Provas por √Ådrian Marcello Mendes Dias
 
 Total Number Of Provas: 14
 Total Number Of Questions: 530
