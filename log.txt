@@ -1,0 +1,229 @@
+Verificação das provas do grupo 2 Enade
+
+Verificação de Provas por Arthur Querido Lopes
+
+Total Number Of Provas: 21
+Total Number Of Questions: 325
+Total Verified Number of Questions: 320
+Percentage of Questions Verified: 0.9846153846153847
+Number of errors: 164
+Number of Oks: 220
+Percentage of Verified Questions Ok: 0.6875
+Errors per question: 0.5046153846153846
+Errors per verified question: 0.5125
+
+Verificação de Provas por Bernardo Duarte Sabino de Freitas
+
+Total Number Of Provas: 20
+Total Number Of Questions: 798
+Total Verified Number of Questions: 798
+Percentage of Questions Verified: 1.0
+Number of errors: 164
+Number of Oks: 659
+Percentage of Verified Questions Ok: 0.8258145363408521
+Errors per question: 0.20551378446115287
+Errors per verified question: 0.20551378446115287
+
+Verificação de Provas por Camael Henrique Ventura Duarte
+
+Total Number Of Provas: 19
+Total Number Of Questions: 760
+Total Verified Number of Questions: 754
+Percentage of Questions Verified: 0.9921052631578947
+Number of errors: 2
+Number of Oks: 754
+Percentage of Verified Questions Ok: 1.0
+Errors per question: 0.002631578947368421
+Errors per verified question: 0.002652519893899204
+
+Verificação de Provas por Fernando Henrique da Cruz
+
+Total Number Of Provas: 20
+Total Number Of Questions: 828
+Total Verified Number of Questions: 0
+Percentage of Questions Verified: 0.0
+Number of errors: 0
+Number of Oks: 0
+Percentage of Verified Questions Ok: 0
+Errors per question: 0.0
+Errors per verified question: 0
+
+Verificação de Provas por Henrique Morais Jacob Medeiros
+
+Total Number Of Provas: 20
+Total Number Of Questions: 800
+Total Verified Number of Questions: 800
+Percentage of Questions Verified: 1.0
+Number of errors: 227
+Number of Oks: 622
+Percentage of Verified Questions Ok: 0.7775
+Errors per question: 0.28375
+Errors per verified question: 0.28375
+
+Verificação de Provas por Henrique Rodrigues de Sousa
+
+Total Number Of Provas: 19
+Total Number Of Questions: 760
+Total Verified Number of Questions: 760
+Percentage of Questions Verified: 1.0
+Number of errors: 1109
+Number of Oks: 310
+Percentage of Verified Questions Ok: 0.40789473684210525
+Errors per question: 1.4592105263157895
+Errors per verified question: 1.4592105263157895
+
+Verificação de Provas por Izabella Guedes Pereira Nery
+
+Total Number Of Provas: 20
+Total Number Of Questions: 811
+Total Verified Number of Questions: 809
+Percentage of Questions Verified: 0.9975339087546239
+Number of errors: 4
+Number of Oks: 805
+Percentage of Verified Questions Ok: 0.9950556242274413
+Errors per question: 0.004932182490752158
+Errors per verified question: 0.004944375772558714
+
+Verificação de Provas por Júlia Lambert Andrade Duraes
+
+Total Number Of Provas: 20
+Total Number Of Questions: 855
+Total Verified Number of Questions: 0
+Percentage of Questions Verified: 0.0
+Number of errors: 0
+Number of Oks: 0
+Percentage of Verified Questions Ok: 0
+Errors per question: 0.0
+Errors per verified question: 0
+
+Verificação de Provas por Kevin Santos Bertoldo
+
+Total Number Of Provas: 20
+Total Number Of Questions: 795
+Total Verified Number of Questions: 783
+Percentage of Questions Verified: 0.9849056603773585
+Number of errors: 752
+Number of Oks: 36
+Percentage of Verified Questions Ok: 0.04597701149425287
+Errors per question: 0.9459119496855346
+Errors per verified question: 0.9604086845466155
+
+Verificação de Provas por Lucas Resende Carneiro
+
+Total Number Of Provas: 20
+Total Number Of Questions: 800
+Total Verified Number of Questions: 800
+Percentage of Questions Verified: 1.0
+Number of errors: 1135
+Number of Oks: 310
+Percentage of Verified Questions Ok: 0.3875
+Errors per question: 1.41875
+Errors per verified question: 1.41875
+
+Verificação de Provas por Luiz Felipe Gonçalves Barbosa Viana
+
+Total Number Of Provas: 21
+Total Number Of Questions: 896
+Total Verified Number of Questions: 895
+Percentage of Questions Verified: 0.9988839285714286
+Number of errors: 198
+Number of Oks: 776
+Percentage of Verified Questions Ok: 0.8670391061452514
+Errors per question: 0.22098214285714285
+Errors per verified question: 0.2212290502793296
+
+Verificação de Provas por Murilo Guerreiro Badoco
+
+Total Number Of Provas: 20
+Total Number Of Questions: 810
+Total Verified Number of Questions: 809
+Percentage of Questions Verified: 0.9987654320987654
+Number of errors: 1141
+Number of Oks: 316
+Percentage of Verified Questions Ok: 0.39060568603213847
+Errors per question: 1.4086419753086419
+Errors per verified question: 1.4103831891223733
+
+Verificação de Provas por Paulo José Carmona Teixeira
+
+Total Number Of Provas: 20
+Total Number Of Questions: 786
+Total Verified Number of Questions: 0
+Percentage of Questions Verified: 0.0
+Number of errors: 0
+Number of Oks: 0
+Percentage of Verified Questions Ok: 0
+Errors per question: 0.0
+Errors per verified question: 0
+
+Verificação de Provas por Ramon Guimarães Cruz
+
+Total Number Of Provas: 19
+Total Number Of Questions: 870
+Total Verified Number of Questions: 868
+Percentage of Questions Verified: 0.9977011494252873
+Number of errors: 177
+Number of Oks: 729
+Percentage of Verified Questions Ok: 0.8398617511520737
+Errors per question: 0.20344827586206896
+Errors per verified question: 0.20391705069124424
+
+Verificação de Provas por Roberto junio Silva Caetano
+
+Total Number Of Provas: 20
+Total Number Of Questions: 818
+Total Verified Number of Questions: 343
+Percentage of Questions Verified: 0.4193154034229829
+Number of errors: 2
+Number of Oks: 344
+Percentage of Verified Questions Ok: 1.0029154518950438
+Errors per question: 0.0024449877750611247
+Errors per verified question: 0.0058309037900874635
+
+Verificação de Provas por Victor Sampaio de Souza Campos
+
+Total Number Of Provas: 20
+Total Number Of Questions: 800
+Total Verified Number of Questions: 65
+Percentage of Questions Verified: 0.08125
+Number of errors: 65
+Number of Oks: 0
+Percentage of Verified Questions Ok: 0.0
+Errors per question: 0.08125
+Errors per verified question: 1.0
+
+Verificação de Provas por Victoria Maria Veloso Rodrigues
+
+Total Number Of Provas: 20
+Total Number Of Questions: 756
+Total Verified Number of Questions: 150
+Percentage of Questions Verified: 0.1984126984126984
+Number of errors: 189
+Number of Oks: 6
+Percentage of Verified Questions Ok: 0.04
+Errors per question: 0.25
+Errors per verified question: 1.26
+
+Verificação de Provas por Vinícius Pereira Duarte
+
+Total Number Of Provas: 20
+Total Number Of Questions: 857
+Total Verified Number of Questions: 857
+Percentage of Questions Verified: 1.0
+Number of errors: 1541
+Number of Oks: 173
+Percentage of Verified Questions Ok: 0.20186697782963828
+Errors per question: 1.7981330221703618
+Errors per verified question: 1.7981330221703618
+
+Verificação de Provas por Ádrian Marcello Mendes Dias
+
+Total Number Of Provas: 14
+Total Number Of Questions: 530
+Total Verified Number of Questions: 529
+Percentage of Questions Verified: 0.9981132075471698
+Number of errors: 78
+Number of Oks: 464
+Percentage of Verified Questions Ok: 0.8771266540642723
+Errors per question: 0.1471698113207547
+Errors per verified question: 0.14744801512287334
