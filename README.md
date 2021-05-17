@@ -1,4 +1,4 @@
-<h1>Script Projeto Enade<h1>
+<h1>Script Projeto Enade</h1>
 
 <p> Este projeto é um script que analisa o conteúdo de todas as questões e provas da primeira etapa do Projeto Enade, na qual alunos converteram o conteúdo pdf para xml, e realiza anotações e correções nos próprios arquivos de acordo com um determinado conjunto de erros detectáveis/corrigíveis, com sua lógica contida no arquivo questionFuncions.py</p>
 
