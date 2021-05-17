@@ -37,23 +37,32 @@ baseDirName = "C:\\Users\\vinic\\Documents\\Projeto Enade - 2 010521\\Projeto En
 alunosDir = os.listdir(baseDirName)
 
 summary = []
+cursos = {}
 for alunoName in alunosDir:
     if(alunoName.find(".") == -1):
     #if(alunoName.find(".") == -1 and alunoName == "Vinícius Pereira Duarte"):
         summaryAluno = SummaryAluno(alunoName)
         provasDirName = baseDirName + "/" + alunoName
         provasDir = os.listdir(provasDirName)
-        for provaName in provasDir:
-            if(provaName.find(".") == -1 ):#and (provaName in provasCorrigidas)):
-                questionsDirName = provasDirName + "/" + provaName
+        for originalProvaName in provasDir:
+            if(originalProvaName.find(".") == -1 and originalProvaName.lower().find("corrigid") == -1):#and (provaName in provasCorrigidas)):
+                questionsDirName = provasDirName + "/" + originalProvaName
                 questionsDir = os.listdir(questionsDirName)
-                provaName = provaName.replace("(1)","").strip()
+                provaName = originalProvaName.replace("(1)","").replace("_"," ").replace(" – "," ").replace(" - "," ").replace(" (Irregulares de anos anteriores)", " ").replace("  "," ").replace("Físicia","Física").replace("Sistema de Informação", "Sistemas de Informação").replace("Analise", "Análise").strip()
                 provaNameArray = provaName.split(" ")
                 provaAnoString = provaNameArray[len(provaNameArray) - 1]
+                cursoNameArray = provaNameArray[:len(provaNameArray) - 1]
+                cursoName = " ".join(cursoNameArray)
+                if not (cursoName in cursos):
+                    cursos[cursoName] = 0
+                cursos[cursoName] += 1
+                if(cursoName == ''):
+                    print(originalProvaName)
+                    print(provaNameArray)
                 try:
                     provaAno = int(provaAnoString)
                     for questionName in questionsDir:
-                        if(questionName.endswith(".xml") and questionName != "current_question.xml" ):# and questionName == "secretariado_executivo_2012_m_18.xml"):
+                        if(questionName.endswith(".xml") and questionName != "current_question.xml" ):#and questionName == "tecnologia_em_gastronomia_2009_m_23.xml"):
                             question = Question(questionName, questionsDirName)
                             with open(question.path,'r+', encoding='utf-8') as questionFile:
                                 question.setText(questionFile.read())
@@ -66,10 +75,12 @@ for alunoName in alunosDir:
                                 qf.verifyLists(question, summaryAluno)
                                 qf.verifyComments(question, summaryAluno)
 
+                                #print(question.text)
                                 question.changeFile = False
                                 if question.changeFile:
+                                    questionFile.truncate(0)
                                     questionFile.seek(0)
-                                    questionFile.write(question)
+                                    questionFile.write(question.text)
                     #print("("+provaName+")" + " Error Count = "+str(errorCount)+"\n\n\n\n")
                     summaryAluno.provas += 1
                 except(ValueError):
@@ -91,10 +102,10 @@ for summaryAluno in summary:
     countErrosAluno = 0
     for errorType in summaryAluno.errorTypes:
         countErrosAluno += summaryAluno.errorTypes[errorType]
-    s += "\n\n"+summaryAluno.name + " - Total de erros: "+str(countErrosAluno)
-    s += "\n" + str(summaryAluno.errorTypes)
+    s += summaryAluno.name + " - Total de erros: "+str(countErrosAluno)
+    s += "\n" + str(summaryAluno.errorTypes) + "\n\n"
     countErros += countErrosAluno
-s+= "\nTotal de erros: "+str(countErros)
+s+= "Total de erros: "+str(countErros)
 
 with open("./log_tipo_erros.txt",'w', encoding='utf-8') as logErrosFile:
     logErrosFile.seek(0)
@@ -109,6 +120,17 @@ for y in range(len(rows)):
     for x in range(len(row)):
         value = row[x]
         worksheet.write(y,x,value)
+
+cursoNameList = list(cursos.keys())
+cursoNameList.sort()
+
+s = "Número de nomes de cursos distintos: "+str(len(cursoNameList))+"\n\n"
+s += "\n".join(cursoNameList)
+with open("./nome_cursos_enade.txt",'w', encoding='utf-8') as nomeCursosFile:
+    nomeCursosFile.seek(0)
+    nomeCursosFile.write(s)
+#print("\n".join(map(lambda a: repr(a), cursoNameList)))
+#print(len(cursoNameList))
 
 workbook.close()
         

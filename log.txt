@@ -2,7 +2,7 @@ Verificação das provas do grupo 2 Enade
 
 Verificação de Provas por Arthur Querido Lopes
 
-Total Number Of Provas: 18
+Total Number Of Provas: 20
 Total Number Of Questions: 325
 Total Verified Number of Questions: 320
 Percentage of Questions Verified: 0.9846153846153847

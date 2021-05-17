@@ -151,7 +151,7 @@ def verifyInternalQuestions(question, provaAno, summaryAluno):
         newComment = "Erro no número de questões internas"
         newCommentXML = "\n<!-- "+newComment+": "+str(l)+" -->"
         summaryAluno.incrementErrorType(newComment)
-        question.addCommentAfterIndex(len(question.text)-1,newCommentXML, [], internalQuestionSpaces, True)
+        question.addCommentAfterIndex(len(question.text),newCommentXML, [], internalQuestionSpaces, True)
         if(l == 0):
             comments = question.findAllBetween("<!--","-->")
             flagFound = False
@@ -206,7 +206,7 @@ def verifyAnswerOptions(question, summaryAluno, provaAno):
             newComment = "Erro no número de tags de answer_options"
             newCommentXML = "\n<!-- "+newComment+" -->"
             summaryAluno.incrementErrorType(newComment)
-            question.addCommentAfterIndex(len(question.text)-1,newCommentXML, [], answerOptionSpaces, True)
+            question.addCommentAfterIndex(len(question.text),newCommentXML, [], answerOptionSpaces, True)
             #print("Erro no número de tags de answer_options")
             #print(len(answerOptionIndexes))
             #print(question.name)
@@ -254,9 +254,9 @@ def verifyAnswerOptions(question, summaryAluno, provaAno):
             items = question.findAllBetween("<item>", "</item>", answerOption)
             if(len(items) != 5):
                 newComment = "Erro no número de items de uma questão de Múltipla Escolha"
-                newCommentXML = "<!-- "+newComment+" -->"
+                newCommentXML = "\n<!-- "+newComment+" -->"
                 summaryAluno.incrementErrorType(newComment)
-                question.addCommentAfterIndex(len(question.text)-1,newCommentXML, [], answerOptionSpaces, True)
+                question.addCommentAfterIndex(answerOptionSpace.getOuterEnd(),newCommentXML, [], answerOptionSpaces, True)
     elif(question.type == "d"):
         pass
     else: pass

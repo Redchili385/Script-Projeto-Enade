@@ -1,0 +1,137 @@
+Número de nomes de cursos distintos: 135
+
+Administração
+Administração Pública
+Agronomia
+Arquitetura e Urbanismo
+Arquivologia
+Artes Visuais
+Biblioteconomia
+Biologia
+Biomedicina
+Ciencias Economicas
+Ciência da Computação Bacharelado
+Ciência da Computação Licenciatura
+Ciências Biológicas Bacharelado
+Ciências Biológicas Licenciatura
+Ciências Contábeis
+Ciências Econômicas
+Ciências Sociais
+Ciências Sociais Bacharelado
+Ciências Sociais Licenciatura
+Computação
+Comunicação Social
+Comunicação Social Jornalismo
+Comunicação Social Publicidade e Propaganda
+Comunicação Social Relações Públicas
+Curso Superior de Tecnologia em Gestão Comercial
+Curso Superior de Tecnologia em Marketing
+Curso Superior de Tecnologia em Processos Gerenciais
+Curso Superior de Tecnologia em Recursos Humanos
+Curso de Tecnologia em Logística
+Design
+Direito
+Educação Física
+Educação Física Licenciatura
+Enfermagem
+Engenharia
+Engenharia Ambiental
+Engenharia Civil
+Engenharia Elétrica
+Engenharia Florestal
+Engenharia Grupo I
+Engenharia Grupo II
+Engenharia Grupo III
+Engenharia Grupo IV
+Engenharia Grupo V
+Engenharia Grupo VI
+Engenharia Grupo VII
+Engenharia Grupo VIII
+Engenharia Mecânica
+Engenharia Química
+Engenharia de Alimentos
+Engenharia de Computação
+Engenharia de Controle e Automação
+Engenharia de Produção
+Estatística
+Farmácia
+Filosofia
+Filosofia Bacharelado
+Filosofia Licenciatura
+Fisioterapia
+Fonoaudiologia
+Formação Geral
+Física
+Física Bacharelado
+Física Licenciatura
+Geografia
+Geografia Bacharelado
+Geografia Licenciatura
+História
+História Bacharelado
+História Licenciatura
+Letras
+Letras Inglês Licenciatura
+Letras Português Bacharelado
+Letras Português Espanhol Licenciatura
+Letras Português Inglês Licenciatura
+Letras Português Licenciatura
+Letras Português e Espanhol
+Letras Português e Inglês
+Matemática
+Matemática Bacharelado
+Matemática Licenciatura
+Medicina
+Medicina Veterinária
+Música
+Música Licenciatura
+Normal Superior
+Nutrição
+Odontologia
+Pedagogia
+Psicologia
+Química
+Química Bacharelado
+Química Licenciatura
+Relações Internacionais
+Secretariado Executivo
+Serviço Social
+Sistemas de Informação
+Teatro
+Tecnologia em Agroindústria
+Tecnologia em Agronegócio
+Tecnologia em Alimentos
+Tecnologia em Análise e Desenvolvimento de Sistemas
+Tecnologia em Automação Industrial
+Tecnologia em Comércio Exterior
+Tecnologia em Construção de Edifícios
+Tecnologia em Design Gráfico
+Tecnologia em Design de Interiores
+Tecnologia em Design de Moda
+Tecnologia em Estética e Cosmética
+Tecnologia em Fabricação Mecânica
+Tecnologia em Gastronomia
+Tecnologia em Gestão Ambiental
+Tecnologia em Gestão Comercial
+Tecnologia em Gestão Financeira
+Tecnologia em Gestão Hospitalar
+Tecnologia em Gestão Pública
+Tecnologia em Gestão da Produção Industrial
+Tecnologia em Gestão da Tecnologia da Informação
+Tecnologia em Gestão de Qualidade
+Tecnologia em Gestão de Recursos Humanos
+Tecnologia em Gestão de Turismo
+Tecnologia em Logística
+Tecnologia em Manutenção Industrial
+Tecnologia em Marketing
+Tecnologia em Processos Gerenciais
+Tecnologia em Processos Químicos
+Tecnologia em Radiologia
+Tecnologia em Redes de Computadores
+Tecnologia em Saneamento Ambiental
+Tecnologia em Saneamento Básico
+Tecnologia em Segurança do Trabalho
+Teologia
+Terapia Ocupacional
+Turismo
+Zootecnia
